@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Notes-Storage ML project! This project aims to leverage machine learning techniques to enhance the organization and retrieval of notes. By implementing advanced algorithms, the goal is to provide users with a more intelligent and efficient way to manage their notes.
+This project aims to leverage machine learning techniques to enhance the organization and retrieval of notes. By implementing advanced algorithms, the goal is to provide users with a more intelligent and efficient way to manage their notes.
 
 ## Features
 
